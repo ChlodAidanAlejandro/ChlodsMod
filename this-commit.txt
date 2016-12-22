@@ -1,0 +1,12 @@
+Changes:
+- Workspace is now run on repository.
+  (this means the gitignore is filled with a bunch of worspace-needed stuff)
+  (too lazy to copy paste files :P)
+(com #19) - Some didn't commit. Reuploading them
+
+I AM WORKING ON AN UPDATE. I'm not just learning for the whole week and no coding
+
+
+Actually I am...
+
+Oops.

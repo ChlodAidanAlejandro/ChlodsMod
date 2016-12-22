@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cdmd",
+  "name": "Chlod's Mod",
+  "description": "Expect crazy weirdness when using this mod",
+  "version": "BETA-1.0,
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Chlod"],
+  "credits": "Chlod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [],
+}
+]

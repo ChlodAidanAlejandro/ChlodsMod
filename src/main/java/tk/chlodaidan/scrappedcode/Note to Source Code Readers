@@ -1,0 +1,23 @@
+Hey!
+
+So... I have scrapped code which is some features that I have given up on coding due to either
+overtime on one code or too much errors or crashes due to Eclipse or Forge. If you would like, you
+can fix these codes, take off all errors and send the source code back to me so that I would
+implement it AND even include your name in the mcmod.info file. Here are the codes included:
+
+Dimension Codes (These go into com.chlod.ChlodsMod.dimension)
+- DimensionRegistry
+- WorldProviderExtra
+- TeleporterExtra
+
+Block Codes (This goes into com.chlod.ChlodsMod.objects.blocks
+- ExtraPortal
+
+Oh! And also remove the comments from the portal registry from the Blocks main registry.
+
+For the dimension codes, I use the "ExtraDim" word and for the biomes I use the "ExtraBiome" word
+if you would like to make references. You also need to take off the /**/ comment lines at each end
+of the code. Thanks!!!
+
+                                              -Chlod Alejandro
+                                              Chlod's Mod Official Creator and Owner

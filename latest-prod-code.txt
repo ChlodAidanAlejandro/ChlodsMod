@@ -1,0 +1,23 @@
+Commit Number: 22
+Build #: 01-1.2 build 0.1
+
+###############################################
+-----------Build Number Breakdown--------------
+01 - Overall Mod Version
+     (refers to the sequel number of the build.
+      Might be 02 if sequel, 03 for threequel)
+1.0.4 - Version in development. Since last
+        released mod on CurseForge was 1.0.3,
+        and we are on alpha, so this would be
+        x.x.x+1
+0.2 - Unfinished Commit Version
+      (this would be filled if the commit was
+       unfinished. This increments the more
+       weeks the project was not finished
+       before the weekend (always 7 days after
+       last commit)
+###############################################
+
+Title Annotation:
+commit #22 build 01-1.2 build 01
+(commit #<commit num.> build <buildcode>)

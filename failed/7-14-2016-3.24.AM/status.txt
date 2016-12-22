@@ -1,0 +1,22 @@
+Status:
+
+Issue Type: Crash
+Time of Failure: 7-14-2016-3:24 AM (UTC)
+Cause: java.lang.ClassNotFoundException: com.chlod.Main.ClientProxy
+Reason Marked As Failure: Cannot locate issue. All code seems fine. No errors found.
+Recent Changes:
+- CreativeTabTools, CreativeTabArmor, CreativeTabBlocks and CreativeTabItems removed
+- CreativeTabChlod created
+- ModCreativeTabs:
+	- CreativeTabTools, CreativeTabArmor, CreativeTabBlocks and CreativeTabItems removed
+	- CreativeTabChlod created
+- Renamed com.chlod to com.chlod.chlodsmod and renamed all packages and classes
+- Replaced CreativeTabTools, CreativeTabArmor, CreativeTabBlocks and CreativeTabItems to CreativeTabChlod
+- Replaced tabChlodTools, tabChlodArmor, tabChlodBlocks and tabChlodItems to tabChlodsMod
+
+State: Open
+Resolved by: N/A
+Reason of Issue: N/A
+Time of Resolution: N/A
+
+---------- EOF 11:38 AM 7/14/2016 ----------

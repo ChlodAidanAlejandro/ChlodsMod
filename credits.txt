@@ -1,0 +1,9 @@
+Most code is from the great tutorials of TechGeek1019 on YouTube
+(yes, this mod came from a modding tutorial :P)
+
+Also some credits to MrCrayfish! Also watched his tutorials :P
+
+Original Dimension and Biome Code by TechGeek1019 is at:
+bit.ly/ModdingFiles
+
+And some guys on the Minecraft Forge Forums too. Lots of people are depending on you guys :D

@@ -1,0 +1,26 @@
+Hey!
+
+So... I have scrapped code which is some features that I have given up on coding due to either
+overtime on one code or too much errors or crashes due to Eclipse or Forge. If you would like, you
+can fix these codes, take off all errors and send the source code back to me so that I would
+implement it AND even include your name in the mcmod.info file. Here are the codes included:
+
+Biome Codes
+- BiomeGenExtraBiome
+- BiomeRegistry
+- ExtraBiomeGenLayerBiome
+- WorldTypeExtraBiome
+
+Dimension Codes
+- DimensionRegistry
+- WorldProviderExtraDimension
+
+Block Codes
+- ExtraDimPortal
+
+For the dimension codes, I use the "ExtraDim" word and for the biomes I use the "ExtraBiome" word
+if you would like to make references. You also need to take off the /**/ comment lines at each end
+of the code. Thanks!!!
+
+                                              -Chlod Alejandro
+                                              Chlod's Mod Official Creator and Owner

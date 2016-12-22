@@ -1,0 +1,75 @@
+ASCII works better on 1920x1080p screens
+
++----------------------+     +------+           +------+     +------+                    +---------------------+     +-------+      +--+     +--------------------+
+|                      |     |      |           |      |     |      |                    |                     |     |        \     |  |     |                    |
+|                      |     |      |           |      |     |      |                    |                     |     |  +---+  \    |  |     |                    |
+|        +-------------+     |      |           |      |     |      |                    |     +---------+     |     |  |    \  \   +--+     |      +-------------+
+|        |                   |      |          	|      |     |      |                    |     |         |     |     |  |     \  \           |      |
+|        |                   |      +-----------+      |     |      |                    |     |         |     |     |  |      |  |          |      |      
+|        |                   |                         |     |      |                    |     |         |     |     |  |      |  |          |      +-------------+
+|        |                   |                         |     |      |                    |     |         |     |     |  |      |  |          |                    |
+|        |                   |      +-----------+      |     |      |                    |     |         |     |     |  |      |  |          |                    |
+|        |                   |      |           |      |     |      |                    |     |         |     |     |  |      |  |          +-------------+      |
+|        |                   |      |           |      |     |      |                    |     |         |     |     |  |      |  |                        |      |
+|        +-------------+     |      |           |      |     |      +--------------+     |     +---------+     |     |  |    /  /                          |      |
+|                      |     |      |           |      |     |                     |     |                     |     |  +---+  /             +-------------+      |
+|                      |     |      |           |      |     |                     |     |                     |     |        /              |                    |
++----------------------+     +------+           +------+     +---------------------+     +---------------------+     +-------+               +--------------------+
+                                           +----------------+    +---------------------+     +-------+     
+                                           |                |    |                     |     |        \
+                                           |    +-+  +-+    |    |                     |     |  +--+   \
+                                           |    | |  | |    |    |     +---------+     |     |  |   \   |
+                                           |    | |  | |    |    |     |         |     |     |  |    \  |
+                                           |    | |  | |    |    |     |         |     |     |  |    |  |
+                                           |    | +--+ |    |    |     |         |     |     |  |    |  |
+                                           |    |      |    |    |     |         |     |     |  |    /  |
+                                           |    |      |    |    |     +---------+     |     |  +---+   |
+                                           |    |      |    |    |                     |     |         /
+                                           +----+      +----+    +---------------------+     +-------+   
+This mod previously fell under the Creative Commons Attribution-ShareAlike 4.0 International Public License. Now, we are gonna change it.
+
+This mod now falls under a new license. I made sure to customize this one. So that no one can republish this.
+
+I'd call this the "Chlod's License 1.0 - Non-Redistribution - Contribution License"
+
+1. Short Glossary
+
+Mod - A Modification to the Minecraft Source Code. Runs on a specific mod loader in charge of reading the code and relaying it as a part of the game that is to be run
+
+Minecraft - A game about building with blocks and tools. Mostly based on pixels. Runs on Java on a specific launcher.
+
+Code - the source code of the mod
+
+Contribution - Help from other people all around the world.
+
+Non-Redistribution - NO ONE CAN COPY THE MOD AND CLAIM IT AS THEIRS OR GAIN MONEY FROM IT
+
+2. Limitations
+
+a. Redistribution - The mod is distributed ONLY in the mod's website. Any other mod redistributing this mod is in violation of this license. This means you may not download the mod jar and reupload it.
+
+b. Contributing - You may contibute to the mod, clone the code to your computer, code in it and maybe even make a commit. You can send me bugs. Anything to help improve the mod!
+
+c. Referencing - You can reference parts of the mod, given you put the name of the mod and my name. Also, tell me first, and I can allow you.
+
+Now, you cannot take a part of the mod and use it in your code without doing the above or explicit permission from me. Don't start exploiting this because I didn't indicate something. Always ask consent before doing something
+that you are unsure with before doing what you are supposed to do.
+
+3. Faliure To Comply
+
+If you reproduce the mod, we must take it down on the site immediately. If not, we will hide the site specified from search results of different search engines.
+
+If you copy a part of the mod with no credits nor consent, your project can be reported to be plagerizing other's work.
+
+If you copy the whole mod, renaming it as your own, we will take down your mod. Do it again, we will ask the hosting site to stop you from reposting the mod.
+
+4. Remarks
+
+I'm a peaceful guy. Cross the line and you are screwed. Try to do something stupid, you're dead and in the worst case, copy my mod and I'll invite you to a peace talk with pancakes and sausages. So please.
+just don't do anything bad. Thanks for understanding :D
+
+5. Others
+
+This license was established on August 23, 2016 (Tuesday) on 8:55 PM. This license was created by Chlod Aidan Alejandro.
+
+----------------------------------------------------------------##END OF FILE##----------------------------------------------------------------------------

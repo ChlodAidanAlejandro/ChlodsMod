@@ -1,0 +1,82 @@
+item.Extraordinium.name=Extraordinium
+item.ExtraordiniumShard.name=Extraordinium Shard
+item.Cloth.name=Cloth
+item.CompressedCoal.name=Compressed Coal
+item.ExtraStick.name=Extraordinium Stick
+item.Rubber.name=Rubber
+item.Crashifier.name=Crashifier
+item.WorldNuker.name=World Nuker
+item.UpdateChecker.name=UpdateChecker
+
+item.GMUncookedBeef.name=Raw Genetically Modified Beef
+item.GMBeef.name=Cooked Genetically Modified Beef
+item.GMMilk.name=Genetically Modified Milk Bucket
+item.Feces.name=Feces
+
+item.ExtraPickaxe.name=Extraordinium Pickaxe
+item.ExtraShovel.name=Extraordinium Shovel
+item.ExtraSword.name=Extraordinium Sword
+item.ExtraAxe.name=Extraordinium Axe
+item.ExtraHoe.name=Extraordinium Hoe
+item.ExtraShears.name=Extraordinium Shears
+item.ExtraBow.name=ExtraBow
+
+item.UltraPickaxe.name=Active UltraPickaxe
+item.UltraPickaxe0.name=Unusable 0% UltraPickaxe
+item.UltraPickaxe1.name=Unusable 25% UltraPickaxe
+item.UltraPickaxe2.name=Unusable 50% UltraPickaxe
+item.UltraPickaxe3.name=Unusable 75% UltraPickaxe
+
+item.PEWPEWBLAST.name=Pew Pew Blaster
+item.FlameThrower.name=Flamethrower
+item.FreezeRay.name=Freeze Ray
+item.BatteryPack.name=Battery Pack
+item.NitroPack.name=Nitroglycerin Pack
+item.CryoPack.name=Cryo-Pack
+
+item.ExtraHelmet.name=Extraordinium Helmet
+item.ExtraChestplate.name=Extraordinium Chestplate
+item.ExtraLeggings.name=Extraordinium Leggings
+item.ExtraBoots.name=Extraordinium Boots
+
+item.PajamaCap.name=Pajama Cap
+item.PajamaShirt.name=Pajama Shirt
+item.PajamaPants.name=Pajama Pants
+item.PajamaSlippers.name=Pajama Slippers
+
+item.Shades.name=Shades (DEEL WID IT)
+
+item.FormalShirt.name=Formal Shirt
+item.FormalPants.name=Formal Pants
+
+item.InvDiamondHelmet.name=Invisible Diamond Helmet
+item.InvDiamondChestplate.name=Invisible Diamond Chestplate
+item.InvDiamondLeggings.name=Invisible Diamond Leggings
+item.InvDiamondBoots.name=Invisible Diamond Boots
+
+item.LabGoggles.name=Safety Goggles
+item.LabCoat.name=White Lab Coat
+item.LabPants.name=Liquid-Resistant Pants
+item.LabBoots.name=Laboratory Safety Boots
+
+item.ExtraSeeds.name=Extraordinium Plant Seeds
+
+tile.ExtraordiniumBlock.name=Extraordinium Block
+tile.ExtraOre.name=Extraordinium Ore
+tile.Illumination.name=Illumination
+tile.ExtraPlant.name=[Debug]Extraordinium Plant Block
+tile.CompressedCoal.name=Compressed Coal Block
+tile.ExtraPortal.name=[Debug]ExtraPortal Block
+
+entity.ExtraCow.name=Extraordinium Cow
+
+itemGroup.BlocksTab=Chlod's Mod BLOCKS
+itemGroup.ItemsTab=Chlod's Mod ITEMS
+itemGroup.ToolsTab=Chlod's Mod TOOLS
+itemGroup.ArmorTab=Chlod's Mod ARMOR
+itemGroup.FoodTab-Chlod's Mod FOOD
+
+itemGroup.GolfTab=Chlod's Golf Stuff
+
+tile.Slide.name=Slider
+tile.Proppeler.name=Propeller
